@@ -1,5 +1,5 @@
-# Hospital Management System
-Hospital Management System using MySQL, Php and Bootstrap.
+# Online Doctor Appointment System.
+online doctor Appointment System using MySQL, Php and Bootstrap.
 
 
 
